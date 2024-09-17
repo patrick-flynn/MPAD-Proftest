@@ -3,5 +3,5 @@
 
 void main()
 {
-    puts("Hello, world!");
+    puts("Hello, Buffalo!");
 }
